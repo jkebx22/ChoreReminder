@@ -1,0 +1,10 @@
+c:\users\jkebx\source\repos\DailyChore\DailyChore\obj\Debug\DailyChore.csprojAssemblyReference.cache
+c:\users\jkebx\source\repos\DailyChore\DailyChore\obj\Debug\DailyChore.Properties.Resources.resources
+c:\users\jkebx\source\repos\DailyChore\DailyChore\obj\Debug\DailyChore.csproj.GenerateResource.cache
+c:\users\jkebx\source\repos\DailyChore\DailyChore\obj\Debug\DailyChore.csproj.CoreCompileInputs.cache
+c:\users\jkebx\source\repos\DailyChore\DailyChore\bin\Debug\DailyChore.exe.config
+c:\users\jkebx\source\repos\DailyChore\DailyChore\bin\Debug\DailyChore.exe
+c:\users\jkebx\source\repos\DailyChore\DailyChore\bin\Debug\DailyChore.pdb
+c:\users\jkebx\source\repos\DailyChore\DailyChore\obj\Debug\DailyChore.exe
+c:\users\jkebx\source\repos\DailyChore\DailyChore\obj\Debug\DailyChore.pdb
+c:\users\jkebx\source\repos\DailyChore\DailyChore\obj\Debug\DailyChore.DailyChore.resources
